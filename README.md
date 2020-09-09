@@ -1,6 +1,6 @@
 # PowerShell
 
-I've found over the years that I've created PowerShell scripts to make administration of different tasks easier.  I've pulled bits a pieces from other scripts around the internet and from coworkers and made them my own to complete specific tasks required.  
+I've found over the years that I've created PowerShell scripts to make administration of different tasks easier.
 
 
 host_selection_GUI.ps1
